@@ -9,6 +9,6 @@ Download our RICE-Motion dataset [here](https://rice.box.com/s/yaxfkalx400kzze2j
 
 # Instructions for running the code
 
-1. Download the pre-trained [model](https://rice.app.box.com/folder/188647757901) and one example preprocessed [data](https://rice.app.box.com/folder/188646929228). Please paste these two folders in the code directory.
+1. Download the pre-trained [model](https://rice.app.box.com/folder/188647757901) and one example preprocessed [data](https://rice.app.box.com/folder/188646929228) containing landmarks and face mesh information. Please paste these two folders in the code directory. Please note that in this work, we use FaceMesh from Snap Inc. for face tracking and fitting. One may use other methods like [ARKit][https://developer.apple.com/videos/play/tech-talks/601/] and [MediaPipe][https://google.github.io/mediapipe/solutions/face_mesh.html] to generate face mesh from a face video.
 2. Run the `main_start.m` to generate surface normal estimates and the pixel intensity fluctuations for each traingle in the face mesh. The result in saved in `*_processed.mat`. 
 3. Run the `main_process.m` to extract the PPG signal and heart rate from the distorted pixel intensity fluctuations.
