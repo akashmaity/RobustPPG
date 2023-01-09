@@ -5,6 +5,15 @@
 
 &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; <img src="https://user-images.githubusercontent.com/26046462/197075057-cee7ff64-538c-4e7e-84d6-d2824d760cbb.gif" width="320" >  <img src="https://user-images.githubusercontent.com/26046462/197075350-f0c43665-6f87-43a2-842d-afc56f67df82.gif" width="320" >
 
+# Overview
+
+This is an implementation of the paper "RobustPPG: camera-based robust heart rate estimation using motion cancellation", Akash Kumar Maity, Jian Wang, Ashutosh Sabharwal and Shree K. Nayar, in Biomedical Optics. 
+
+In this work, we develop a motion-robust algorithm, labeled RobustPPG, for extracting photoplethysmography signals (PPG) from face video and estimating the heart rate. Our key innovation is to explicitly model and generate motion distortions due to the movements of the person’s face. Finally, we use the generated motion distortion to filter the motion-induced measurements. The overall results show improvement over the state-of-the art methods.
+
+
+# Dataset 
+
 Download our RICE-Motion dataset [here](https://rice.box.com/s/yaxfkalx400kzze2jlb02nysv7m5mxbr).
 
 # Instructions for running the code
