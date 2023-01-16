@@ -2,10 +2,7 @@
 
 
 
-
-https://user-images.githubusercontent.com/26046462/212691098-004b2f13-a595-43b3-81fb-c960ca5603ab.mp4
-
-
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/26046462/212691754-cbb30055-441e-4a20-8a02-2e48b424de8e.gif)
 
 
 # Overview
