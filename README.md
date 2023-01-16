@@ -1,6 +1,6 @@
 # RobustPPG: camera-based robust heart rate estimation using motion cancellation
 
-&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; 
+&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; 
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/26046462/212691832-5cbe3f94-01e2-4f39-ab35-bdb5767b3359.gif)
 
 
