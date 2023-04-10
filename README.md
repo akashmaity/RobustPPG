@@ -10,6 +10,9 @@ This is an implementation of the paper "RobustPPG: camera-based robust heart rat
 
 In this work, we develop a motion-robust algorithm, labeled RobustPPG, for extracting photoplethysmography signals (PPG) from face video and estimating the heart rate. Our key innovation is to explicitly model and generate motion distortions due to the movements of the person’s face. Finally, we use the generated motion distortion to filter the motion-induced measurements. The overall results show improvement over the state-of-the art methods.
 
+Publication: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9664884/
+Presentation video : https://www.youtube.com/watch?v=uxMm4vJhvFA
+
 
 # Dataset 
 
