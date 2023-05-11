@@ -6,7 +6,7 @@
 
 # Overview
 
-This is an implementation of the paper "RobustPPG: camera-based robust heart rate estimation using motion cancellation", Akash Kumar Maity, Jian Wang, Ashutosh Sabharwal and Shree K. Nayar, in Biomedical Optics. 
+This is an implementation of the paper "RobustPPG: camera-based robust heart rate estimation using motion cancellation", Akash Kumar Maity<sup>2</sup>, Jian Wang, Ashutosh Sabharwal and Shree K. Nayar, in Biomedical Optics. 
 
 In this work, we develop a motion-robust algorithm, labeled RobustPPG, for extracting photoplethysmography signals (PPG) from face video and estimating the heart rate. Our key innovation is to explicitly model and generate motion distortions due to the movements of the person’s face. Finally, we use the generated motion distortion to filter the motion-induced measurements. The overall results show improvement over the state-of-the art methods.
 
